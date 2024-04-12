@@ -16,5 +16,13 @@ The proposed add&bit-operation-only BNN offers an innovative approach for hardwa
 ## Citation
 If you find our code useful for your research, please consider citing:
 
+```
+@article{ma2024ab,
+  title={A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network},
+  author={Ruichen Ma and Guanchao Qiao and Yian Liu and Liwei Meng and Ning Ning and Yang Liu and Shaogang Hu},
+  journal={arXiv preprint arXiv:2403.03739},
+  year={2024}
+}
+```
 ## Requirements
 - python3, pytorch2.0.1
