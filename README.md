@@ -3,6 +3,9 @@ This is the pytorch implementation of our paper **A&B BNN: Add&Bit-Operation-Onl
 
 This work proposes a novel hardware-friendly binary neural network architecture that does not require any multiplication operations.
 
+Arxiv: [https://arxiv.org/abs/2403.03739](https://arxiv.org/abs/2403.03739)
+
+CVF: [https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html)
 ## Abstract
 Binary neural networks utilize 1-bit quantized weights and activations to reduce both the model’s storage demands and computational burden.
 However, advanced binary architectures still incorporate millions of inefficient and nonhardware-friendly full-precision multiplication operations.
@@ -17,11 +20,13 @@ The proposed add&bit-operation-only BNN offers an innovative approach for hardwa
 If you find our code useful for your research, please consider citing:
 
 ```
-@article{ma2024ab,
-  title={A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network},
-  author={Ruichen Ma and Guanchao Qiao and Yian Liu and Liwei Meng and Ning Ning and Yang Liu and Shaogang Hu},
-  journal={arXiv preprint arXiv:2403.03739},
-  year={2024}
+@InProceedings{Ma_2024_CVPR,
+    author    = {Ma, Ruichen and Qiao, Guanchao and Liu, Yian and Meng, Liwei and Ning, Ning and Liu, Yang and Hu, Shaogang},
+    title     = {A\&B BNN: Add\&Bit-Operation-Only Hardware-Friendly Binary Neural Network},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {5704-5713}
 }
 ```
 ## Requirements
