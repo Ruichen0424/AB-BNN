@@ -1,11 +1,13 @@
 # AB-BNN
-This is the pytorch implementation of our paper **A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network** published in CVPR 2024.
+This is the offical pytorch implementation of paper **A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network** published in CVPR 2024.
 
-This work proposes a novel hardware-friendly binary neural network architecture that does not require any multiplication operations.
+This work proposes a novel hardware-friendly binary neural network architecture that does not require any multiplication operations during inference.
 
 Arxiv: [https://arxiv.org/abs/2403.03739](https://arxiv.org/abs/2403.03739)
 
 CVF: [https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html)
+
+IEEE: [https://xploreqa.ieee.org/document/10656026](https://xploreqa.ieee.org/document/10656026)
 ## Abstract
 Binary neural networks utilize 1-bit quantized weights and activations to reduce both the model’s storage demands and computational burden.
 However, advanced binary architectures still incorporate millions of inefficient and nonhardware-friendly full-precision multiplication operations.
@@ -30,4 +32,5 @@ If you find our code useful for your research, please consider citing:
 }
 ```
 ## Requirements
-- python3, pytorch2.0.1
+- python 3.8
+- pytorch 2.0.1
