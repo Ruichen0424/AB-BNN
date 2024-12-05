@@ -44,7 +44,7 @@ The pre-trained models can be downloaded [here](https://pan.baidu.com/s/1P8H89pC
 <tr>
 <th>Datasets</th>
 <th align="right">Structures</th>
-<th align="center"># Params</th>
+<th align="center"># Params (M)</th>
 <th align="center">Top-1 Acc (%)</th>
 </tr>
 
