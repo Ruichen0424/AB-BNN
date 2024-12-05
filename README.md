@@ -37,7 +37,7 @@ If you find our code useful for your research, please consider citing:
 
 ## Main Results
 
-The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.com/s/1P8H89pCwLiROlxiR73xL8A?pwd=abnn) (pwd=abnn) or , and the codes for inference can be found in [./Inference](https://github.com/Ruichen0424/AB-BNN/tree/master/Inference).
+The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.com/s/1P8H89pCwLiROlxiR73xL8A?pwd=abnn) (pwd=abnn), and the codes for inference can be found in [./Inference](https://github.com/Ruichen0424/AB-BNN/tree/master/Inference).
 
 <table>
 
