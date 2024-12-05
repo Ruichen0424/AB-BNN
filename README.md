@@ -34,3 +34,59 @@ If you find our code useful for your research, please consider citing:
 ## Requirements
 - python 3.8
 - pytorch 2.0.1
+
+## Main Results
+
+The pre-trained models can be downloaded [here](https://pan.baidu.com/s/1P8H89pCwLiROlxiR73xL8A?pwd=abnn) (pwd=abnn), and the codes for inference can be found in [./Inference](https://github.com/Ruichen0424/AB-BNN/tree/master/Inference).
+
+<table>
+
+<tr>
+<th>Datasets</th>
+<th align="right">Structures</th>
+<th align="center"># Params</th>
+<th align="center">Top-1 Acc (%)</th>
+</tr>
+
+<tr>
+<th rowspan=2>CIFAR10</th>
+<td align="center">ReActNet-18</td>
+<td align="center">11.18</td>
+<td align="center">91.94</td>
+</tr>
+<tr>
+<td align="center">ReActNet-A</td>
+<td align="center">28.32</td>
+<td align="center">89.44</td>
+</tr>
+
+<tr>
+<th rowspan=2>CIFAR100</th>
+<td align="center">ReActNet-18</td>
+<td align="center">11.23</td>
+<td align="center">69.35</td>
+</tr>
+<tr>
+<td align="center">ReActNet-A</td>
+<td align="center">28.41</td>
+<td align="center">63.23</td>
+</tr>
+
+<tr>
+<th rowspan=3>ImageNet</th>
+<td align="center">ReActNet-18</td>
+<td align="center">11.70</td>
+<td align="center">61.39</td>
+</tr>
+<tr>
+<td align="center">ReActNet-34</td>
+<td align="center">21.82</td>
+<td align="center">65.19</td>
+</tr>
+<tr>
+<td align="center">ReActNet-A</td>
+<td align="center">29.33</td>
+<td align="center">66.89</td>
+</tr>
+
+</table>
