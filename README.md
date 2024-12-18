@@ -42,8 +42,8 @@ The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.co
 <table>
 
 <tr>
-<th>Datasets</th>
-<th align="right">Structures</th>
+<th>Dataset</th>
+<th align="right">Structure</th>
 <th align="center"># Params</th>
 <th align="center">Top-1 Acc</th>
 </tr>
