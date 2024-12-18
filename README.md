@@ -1,13 +1,12 @@
 # AB-BNN
 This is the offical pytorch implementation of paper **A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network** published in CVPR 2024.
 
-This work proposes a novel hardware-friendly binary neural network architecture that does not require any multiplication operations during inference.
+Paper link: &emsp;
+[Arxiv](https://arxiv.org/abs/2403.03739),&ensp; 
+[CVF](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html),&ensp; 
+[IEEE](https://xploreqa.ieee.org/document/10656026),&ensp; 
+[Google Scholar](https://scholar.google.com/scholar?cluster=9219398500921383941)
 
-Arxiv: [https://arxiv.org/abs/2403.03739](https://arxiv.org/abs/2403.03739)
-
-CVF: [https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html)
-
-IEEE: [https://xploreqa.ieee.org/document/10656026](https://xploreqa.ieee.org/document/10656026)
 ## Abstract
 Binary neural networks utilize 1-bit quantized weights and activations to reduce both the model’s storage demands and computational burden.
 However, advanced binary architectures still incorporate millions of inefficient and nonhardware-friendly full-precision multiplication operations.
@@ -31,13 +30,13 @@ If you find our code useful for your research, please consider citing:
     pages     = {5704-5713}
 }
 ```
+
 ## Requirements
-- python 3.8
-- pytorch 2.0.1
+- python==3.8
+- pytorch==2.0.1
 
 ## Main Results
-
-The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.com/s/1P8H89pCwLiROlxiR73xL8A?pwd=abnn) (pwd=abnn), and the codes for inference can be found in [./Inference](https://github.com/Ruichen0424/AB-BNN/tree/master/Inference).
+The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.com/s/1CiYtPZuUaIk99WM6umOk9Q?pwd=abnn) (pwd=abnn), and the codes for inference can be found in [./Inference](https://github.com/Ruichen0424/AB-BNN/tree/master/Inference).
 
 <table>
 
