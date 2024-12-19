@@ -40,9 +40,14 @@ If you find our code useful for your research, please consider citing:
 - python==3.8
 - pytorch==2.0.1
 
-## Main Results
+## Pre-trained Model
 The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.com/s/1CiYtPZuUaIk99WM6umOk9Q?pwd=abnn) (pwd=abnn), and the codes for inference can be found in [./Inference](https://github.com/Ruichen0424/AB-BNN/tree/master/Inference).
+The following code can be used to check the md5 values ​​of all files.
+```
+md5sum -c md5.txt
+```
 
+## Main Results
 <table>
 
 <tr>
@@ -50,6 +55,7 @@ The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.co
 <th align="right">Structure</th>
 <th align="center"># Params</th>
 <th align="center">Top-1 Acc</th>
+<th align="center">Downloadable </th>
 </tr>
 
 <tr>
@@ -57,11 +63,13 @@ The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.co
 <td align="center">ReActNet-18</td>
 <td align="center">11.18 M</td>
 <td align="center">91.94%</td>
+<td align="center">&#x2714</td>
 </tr>
 <tr>
 <td align="center">ReActNet-A</td>
 <td align="center">28.32 M</td>
 <td align="center">89.44%</td>
+<td align="center">&#x2714</td>
 </tr>
 
 <tr>
@@ -69,11 +77,13 @@ The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.co
 <td align="center">ReActNet-18</td>
 <td align="center">11.23 M</td>
 <td align="center">69.35%</td>
+<td align="center">&#x2714</td>
 </tr>
 <tr>
 <td align="center">ReActNet-A</td>
 <td align="center">28.41 M</td>
 <td align="center">63.23%</td>
+<td align="center">&#x2714</td>
 </tr>
 
 <tr>
@@ -81,16 +91,19 @@ The pre-trained models can be downloaded at [Baidu Netdisk](https://pan.baidu.co
 <td align="center">ReActNet-18</td>
 <td align="center">11.70 M</td>
 <td align="center">61.39%</td>
+<td align="center">&#x2714</td>
 </tr>
 <tr>
 <td align="center">ReActNet-34</td>
 <td align="center">21.82 M</td>
 <td align="center">65.19%</td>
+<td align="center">&#x2714</td>
 </tr>
 <tr>
 <td align="center">ReActNet-A</td>
 <td align="center">29.33 M</td>
 <td align="center">66.89%</td>
+<td align="center">&#x2714</td>
 </tr>
 
 </table>
