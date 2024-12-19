@@ -55,7 +55,7 @@ md5sum -c md5.txt
 <th align="right">Structure</th>
 <th align="center"># Params</th>
 <th align="center">Top-1 Acc</th>
-<th align="center">Downloadable </th>
+<th align="center">Downloadable</th>
 </tr>
 
 <tr>
