@@ -1,14 +1,19 @@
 # AB-BNN
 This is the offical pytorch implementation of paper **A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network** published in CVPR 2024.
 
-Paper link: &emsp;
-[Arxiv](https://arxiv.org/abs/2403.03739),&ensp; 
-[CVF](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html),&ensp; 
-[IEEE](https://xploreqa.ieee.org/document/10656026),&ensp; 
-[Google Scholar](https://scholar.google.com/scholar?cluster=9219398500921383941)
+![Poster](./poster.png)
+
+Paper Link: &emsp;
+[Arxiv](https://arxiv.org/abs/2403.03739)&ensp;
+[CVPR](https://cvpr.thecvf.com/virtual/2024/poster/29447)&ensp;
+[Google Scholar](https://scholar.google.com/scholar?cluster=9219398500921383941)&ensp;
+[IEEE](https://xploreqa.ieee.org/document/10656026)  
+Video Link: &emsp;
+[Bilibili](https://www.bilibili.com/video/BV1PM4m1S7T1)&ensp;
+[YouTube](https://youtu.be/L8cWTetcU2M?si=V_fH1YXVKhlaEdf4)
 
 ## Abstract
-Binary neural networks utilize 1-bit quantized weights and activations to reduce both the model’s storage demands and computational burden.
+Binary neural networks utilize 1-bit quantized weights and activations to reduce both the model's storage demands and computational burden.
 However, advanced binary architectures still incorporate millions of inefficient and nonhardware-friendly full-precision multiplication operations.
 A&B BNN is proposed to directly remove part of the multiplication operations in a traditional BNN and replace the rest with an equal number of bit operations, introducing the mask layer and the quantized RPReLU structure based on the normalizer-free network architecture.
 The mask layer can be removed during inference by leveraging the intrinsic characteristics of BNN with straightforward mathematical transformations to avoid the associated multiplication operations.
