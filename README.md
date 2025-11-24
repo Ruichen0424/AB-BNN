@@ -132,8 +132,9 @@ If you find our code useful for your research, please consider citing:
 @inproceedings{ma2024b,
   title={A\&B BNN: Add\&Bit-Operation-Only Hardware-Friendly Binary Neural Network},
   author={Ma, Ruichen and Qiao, Guanchao and Liu, Yian and Meng, Liwei and Ning, Ning and Liu, Yang and Hu, Shaogang},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle={2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages={5704--5713},
-  year={2024}
+  year={2024},
+  organization={IEEE}
 }
 ```
