@@ -9,6 +9,8 @@
 [![IEEE](https://img.shields.io/badge/IEEE-Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://xploreqa.ieee.org/document/10656026)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Ruichen0424/AB-BNN)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/L8cWTetcU2M?si=V_fH1YXVKhlaEdf4)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Video-FE7398?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1PM4m1S7T1)
 </div>
 
 <br>
@@ -18,11 +20,6 @@
 This is the official PyTorch implementation of the paper **A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network**, published in **CVPR 2024**.
 
 ![Poster](./assets/poster.png)
-
-**Video Links:**
-
-[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/L8cWTetcU2M?si=V_fH1YXVKhlaEdf4)
-[![Bilibili](https://img.shields.io/badge/Bilibili-Video-FE7398?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1PM4m1S7T1)
 
 ## 📄 Abstract
 Binary neural networks utilize 1-bit quantized weights and activations to reduce both the model's storage demands and computational burden.
