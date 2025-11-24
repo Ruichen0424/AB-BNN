@@ -7,7 +7,7 @@
 [![CVPR 2024](https://img.shields.io/badge/CVPR%202024-Poster-4b44ce.svg?style=flat-square)](https://cvpr.thecvf.com/virtual/2024/poster/29447)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Paper-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?cluster=9219398500921383941)
 [![IEEE](https://img.shields.io/badge/IEEE-Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://xploreqa.ieee.org/document/10656026)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Weights-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Ruichen0424/AB-BNN)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Ruichen0424/AB-BNN)
 
 </div>
 
@@ -60,7 +60,7 @@ The codes for inference can be found in [./Inference](./Inference).
 
 **Download Links:**
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Weights-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Ruichen0424/AB-BNN)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Ruichen0424/AB-BNN)
 [![Baidu Netdisk](https://img.shields.io/badge/Baidu%20Netdisk-Models-06A7FF?style=flat-square&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1P2hCYiVEdHFDCtUrycHboQ?pwd=ABNN)
 
 
