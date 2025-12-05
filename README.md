@@ -7,6 +7,8 @@
 [![CVPR 2024](https://img.shields.io/badge/CVPR%202024-Poster-4b44ce.svg?style=flat-square)](https://cvpr.thecvf.com/virtual/2024/poster/29447)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Paper-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?cluster=9219398500921383941)
 [![IEEE](https://img.shields.io/badge/IEEE-Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://xploreqa.ieee.org/document/10656026)
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2403.03739)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Ruichen0424/AB-BNN)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/L8cWTetcU2M?si=V_fH1YXVKhlaEdf4)
